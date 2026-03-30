@@ -1,2 +1,2 @@
 # Проект "Посмотри в окно"
-https://annao12.github.io/posmotri-v-okno-fd/
+https://github.com/AnnaO12/posmotri-v-okno-fd
